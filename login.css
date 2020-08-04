@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url(https://cdn.tourradar.com/s3/content-pages/377/1024x768/I6QqEd.jpeg) no-repeat;
+    background-size: cover;
+}
+.login-heading{
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: darkgray;
+}
+.login-heading h1{
+    float: left;
+    font-size: 45px;
+    border-bottom: 6px solid green;
+    margin-bottom: 60px;
+}
+.text{
+    width: 100%;
+    overflow: hidden;
+    font-size: 21px;
+    padding: 9px 0;
+    margin: 9px 0;
+    border-bottom: 3px solid honeydew;
+}
